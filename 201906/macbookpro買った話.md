@@ -19,7 +19,6 @@ MacBookPro(15inch,2016) Touchbar搭載 SpaceGray
 * サウンドの音の迫力がすごい。このPCでBUMP聞いたらびっくりした。
 * バタフライキーボードは慣れた。巷で言われてるより悪くない。
 * カラバリでSpaceGrayカッコよすぎわろた
-* 
 
 ## 次の記事告知
 MacBookProアクセサリーについて  
